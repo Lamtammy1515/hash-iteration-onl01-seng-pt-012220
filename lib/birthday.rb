@@ -11,11 +11,3 @@ def happy_birthday(birthday_kids)
   end
 end
 
-
-def age_appropriate_birthday(birthday_kids)
-  if birthday_kids < 12 
-    print "Happy Birthday #{name}! You are now #{age} years old!"}
-  else 
-    return "You are too old for this."
-end
-end 
